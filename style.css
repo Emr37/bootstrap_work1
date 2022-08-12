@@ -1,0 +1,44 @@
+body {
+    font-family: Verdana, monospace, sans-serif;
+    font-size: 12px;
+    font-weight: bold;
+    text-align: justify;
+    background-color: #E9ECEF;
+    margin: 0;
+    padding: 0;    
+}
+
+h1, h2, h3 {
+    text-align: center;
+}
+p {
+    text-align: justify;
+}
+
+.nav-link span:hover {
+    color: gray;
+}
+
+.navbar-brand span:hover {
+    color: gray;
+}
+
+.card-text {
+    text-align: justify;
+    color:blueviolet;
+
+}
+
+.container {
+    display: grid;
+    justify-content: center;
+    align-items: center;
+}
+
+.card {
+    flex:1;
+    margin: 2px auto;
+}
+
+
+
